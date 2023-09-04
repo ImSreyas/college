@@ -1,0 +1,48 @@
+1) write a program to find the area and peremeter of a rectangle 
+2) find the area and peremeter of a circle 
+3) compare two numbers 
+4) write a program to find a number even or odd
+5) write a program to check leap year
+6) writa a program to check a number is positve or negative
+7) write a program to compare three numbers.
+8) read three marks, display the grade.(mark is out of 100);90 above is a , 80 to 90 is b, 70 to 80 c, 60 to 70 d, 50 to 60 e(failed)
+a) using switch statement : read two numbers. 1 for addition 2 for substraction,
+read two numbers press + operator for addition - for substaraction and * for multi and / for divition
+9) use the switch statement for the same problem.
+10) swap two numbers. using three variables 
+11) swap two numbers. using two numbers.
+12) program to add first and last numbers from a 4 digit number.
+13)	
+
+16) print your name 10 times. using for loop.
+17) print 1 to 50 using for loop
+18) print first n natuaral numbers 
+19) print first N natural numbers in a reverse order.
+20) print first N even numbers.
+21) print N odd numbers.
+22) find the sum of first N natural numbers.
+23) find the factorial of a number 
+24) read N numbers and find the greatest number.
+25) print first 50 numbers like 
+1 2 3 4 5
+6 7 8 9 10 ...etc
+26) create a timer that count from 10 to 0
+27) print first n natural number using while loop
+28) print n natural numbers using do while 
+29) read n natural numbers break if the input is negative number.
+30) write a program to check palindrome
+31) print the natuaral numbers in the order 
+1
+2 3
+4 5 6
+7 8 9 10
+
+1
+2 2 
+3 3 3
+4 4 4 4
+
+*
+* * 
+* * * 
+* * * * 
